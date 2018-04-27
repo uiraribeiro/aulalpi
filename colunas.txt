@@ -1,0 +1,3 @@
+chrysler	land rover	kia	bmw
+carpaccio	sushi	Hambúrguer	Ceviche
+a1	a2	a3	a4
